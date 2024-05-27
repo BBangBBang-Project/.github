@@ -47,7 +47,7 @@
 
 ###### 클릭하면 유튜브로 이동합니다
 
-[![시연 영상](http://img.youtube.com/vi/6Z1z2PJn43g/0.jpg)](https://youtu.be/6Z1z2PJn43g)
+[![시연 영상]()
 
 </br>
 
@@ -58,6 +58,6 @@
 <img width="470" alt="web1" src="https://github.com/BugiCare/.github/assets/92321183/5f1d7c5e-a98b-4c58-ae26-eaaca56224bd">
 <img width="470" alt="web2" src="https://github.com/BugiCare/.github/assets/92321183/62258ded-b991-425c-a878-7cc80c30a938">
 
-#### 앱
+#### 키오스크 앱
 
-<img width="1337" alt="image" src="https://github.com/BugiCare/BugiCareServer_Flask/assets/92321183/fb924503-8667-4a73-a9fc-698bcd620d26">
+<img width="1337" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/77fcd687-af26-4aa9-8452-5a4313fb08cf">
