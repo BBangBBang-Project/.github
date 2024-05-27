@@ -39,7 +39,7 @@
 
 ## :construction: 시스템 구조도
 
-![시스템구조도]()
+![시스템구조도](https://github.com/BBangBBang-Project/.github/assets/127702076/33c4968d-b67f-4914-8770-77d080cee8b3)
 
 </br>
 
