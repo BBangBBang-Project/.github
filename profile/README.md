@@ -33,13 +33,13 @@
 | <img src="https://avatars.githubusercontent.com/u/127702076?v=4"> | <img src="https://avatars.githubusercontent.com/u/74961371?v=4"> | <img src="https://avatars.githubusercontent.com/u/127072393?v=4"> | <img src="https://avatars.githubusercontent.com/u/121925620?v=4"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |         [위승현(팀장)](https://github.com/Weseunghyun)         |           [유태선](https://github.com/taeseonYoo)            |            [김은경](https://github.com/kimeunkyoungg)            |             [장수희](https://github.com/soosooh)             |
-|                            front                             |                             back                             |                            front                             |                             back                             |
+|                            back                             |                             back                             |                            front                             |                             front                             |
 
 </br>
 
 ## :construction: 시스템 구조도
 
-![시스템구조도](https://github.com/BugiCare/BugiCareServer_SpringBoot/assets/92321183/fa8d4165-7600-4fe0-8a88-62730eae78f1)
+![시스템구조도]()
 
 </br>
 
