@@ -55,8 +55,7 @@
 
 #### 웹
 
-<img width="470" alt="web1" src="https://github.com/BugiCare/.github/assets/92321183/5f1d7c5e-a98b-4c58-ae26-eaaca56224bd">
-<img width="470" alt="web2" src="https://github.com/BugiCare/.github/assets/92321183/62258ded-b991-425c-a878-7cc80c30a938">
+<img width="470" alt="web1" src="https://github.com/BBangBBang-Project/.github/assets/127702076/fe355e8c-ad06-4f5e-83d6-0ca3679108b6">
 
 #### 키오스크 앱
 
