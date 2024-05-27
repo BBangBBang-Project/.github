@@ -55,8 +55,8 @@
 
 #### 웹
 
-<img width="470" alt="web1" src="https://github.com/BBangBBang-Project/.github/assets/127702076/fe355e8c-ad06-4f5e-83d6-0ca3679108b6">
+<img width="1330" alt="web1" src="https://github.com/BBangBBang-Project/.github/assets/127702076/fe355e8c-ad06-4f5e-83d6-0ca3679108b6">
 
 #### 키오스크 앱
 
-<img width="1337" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/77fcd687-af26-4aa9-8452-5a4313fb08cf">
+<img width="470" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/77fcd687-af26-4aa9-8452-5a4313fb08cf">
