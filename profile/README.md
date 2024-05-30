@@ -47,7 +47,7 @@
 
 ###### 클릭하면 유튜브로 이동합니다
 
-[![시연 영상](https://youtu.be/zHoB05h0lhw)
+[![시연 영상](http://img.youtube.com/vi/zHoB05h0lhw/0.jpg)](https://youtu.be/zHoB05h0lhw)
 
 </br>
 
