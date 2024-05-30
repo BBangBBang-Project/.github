@@ -69,5 +69,5 @@
 
 #### 빵 자판기
 
-<img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/c1a94365-2f65-40e5-9def-2981dc74b60e">
+<img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/6e1f0f5d-4783-4ef6-9b0f-29deb41eb85c">
 
