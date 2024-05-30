@@ -53,11 +53,21 @@
 
 ## :camera: 실행 화면
 
-#### 웹
+#### 판매자 웹
 
 <img width="1330" alt="web1" src="https://github.com/BBangBBang-Project/.github/assets/127702076/fe355e8c-ad06-4f5e-83d6-0ca3679108b6">
 
 #### 키오스크 앱
 
 <img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/5ec7b891-43a6-4b2a-a99b-db1fc8c46933">
+<img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/f5a47397-1287-4de2-84de-4e912c684fc1">
+<img width="600" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/a8e96d22-d426-4dc6-ab8b-dcd2c0a6801d">
+
+#### 구매자 앱
+
+<img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/4b4388f3-cd04-4905-b65c-ac09ec84adc1">
+
+#### 빵 자판기
+
+<img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/c1a94365-2f65-40e5-9def-2981dc74b60e">
 
