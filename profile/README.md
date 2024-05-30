@@ -60,3 +60,4 @@
 #### 키오스크 앱
 
 <img width="470" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/77fcd687-af26-4aa9-8452-5a4313fb08cf">
+<img width="470" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/b304a000-8b3f-4d31-8451-14d2e9b84591">
