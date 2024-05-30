@@ -18,7 +18,7 @@
 
 ##### [SpringBoot Server](https://github.com/BBangBBang-Project/BBangBBang_Backend)
 
-##### [Flask Server](https://github.com/BugiCare/BugiCareServer_Flask)
+##### [Flask Server](https://github.com/BBangBBang-Project/Raspberry_Flask)
 
 ##### [Kiosk App](https://github.com/BBangBBang-Project/BBangBBang_Kiosk)
 
