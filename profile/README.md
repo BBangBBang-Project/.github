@@ -66,6 +66,8 @@
 #### 구매자 앱
 
 <img width="800" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/4b4388f3-cd04-4905-b65c-ac09ec84adc1">
+<img width="600" alt="image" src="https://github.com/BBangBBang-Project/.github/assets/127702076/cc2160b6-0269-48d2-966c-f0f686b4fd24">
+
 
 #### 빵 자판기
 
